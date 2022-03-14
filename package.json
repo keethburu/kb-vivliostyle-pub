@@ -1,0 +1,12 @@
+{
+  "name": "vivliostyle-pub",
+  "version": "0.0.0",
+  "author": "Vivliostyle Pub",
+  "scripts": {
+    "encrypt": "./scripts/encrypt.sh"
+  },
+  "devDependencies": {},
+  "repository": "ssh://git@github.com/vivliostyle/vivliostyle-pub",
+  "license": "MIT",
+  "private": true
+}

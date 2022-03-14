@@ -1,0 +1,6 @@
+dist/
+*.pdf
+.env
+.envrc
+/vivliostyle-*.json
+tmp/
